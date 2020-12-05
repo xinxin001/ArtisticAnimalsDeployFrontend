@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ArtisticAnimalsDeployFrontend/static/css/main.d1a91803.chunk.css",
-    "main.js": "/ArtisticAnimalsDeployFrontend/static/js/main.b4118d20.chunk.js",
-    "main.js.map": "/ArtisticAnimalsDeployFrontend/static/js/main.b4118d20.chunk.js.map",
-    "runtime-main.js": "/ArtisticAnimalsDeployFrontend/static/js/runtime-main.224de962.js",
-    "runtime-main.js.map": "/ArtisticAnimalsDeployFrontend/static/js/runtime-main.224de962.js.map",
-    "static/js/2.853202a0.chunk.js": "/ArtisticAnimalsDeployFrontend/static/js/2.853202a0.chunk.js",
-    "static/js/2.853202a0.chunk.js.map": "/ArtisticAnimalsDeployFrontend/static/js/2.853202a0.chunk.js.map",
-    "static/js/3.3dcd275d.chunk.js": "/ArtisticAnimalsDeployFrontend/static/js/3.3dcd275d.chunk.js",
-    "static/js/3.3dcd275d.chunk.js.map": "/ArtisticAnimalsDeployFrontend/static/js/3.3dcd275d.chunk.js.map",
-    "index.html": "/ArtisticAnimalsDeployFrontend/index.html",
-    "static/css/main.d1a91803.chunk.css.map": "/ArtisticAnimalsDeployFrontend/static/css/main.d1a91803.chunk.css.map",
-    "static/js/2.853202a0.chunk.js.LICENSE.txt": "/ArtisticAnimalsDeployFrontend/static/js/2.853202a0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ArtisticAnimalsDeployFrontend/static/media/gallery.87daf8cb.png"
+    "main.css": "/ArtisticAnimalsWebApp/static/css/main.cf2f82a7.chunk.css",
+    "main.js": "/ArtisticAnimalsWebApp/static/js/main.b4118d20.chunk.js",
+    "main.js.map": "/ArtisticAnimalsWebApp/static/js/main.b4118d20.chunk.js.map",
+    "runtime-main.js": "/ArtisticAnimalsWebApp/static/js/runtime-main.2d310b2d.js",
+    "runtime-main.js.map": "/ArtisticAnimalsWebApp/static/js/runtime-main.2d310b2d.js.map",
+    "static/js/2.853202a0.chunk.js": "/ArtisticAnimalsWebApp/static/js/2.853202a0.chunk.js",
+    "static/js/2.853202a0.chunk.js.map": "/ArtisticAnimalsWebApp/static/js/2.853202a0.chunk.js.map",
+    "static/js/3.3dcd275d.chunk.js": "/ArtisticAnimalsWebApp/static/js/3.3dcd275d.chunk.js",
+    "static/js/3.3dcd275d.chunk.js.map": "/ArtisticAnimalsWebApp/static/js/3.3dcd275d.chunk.js.map",
+    "index.html": "/ArtisticAnimalsWebApp/index.html",
+    "static/css/main.cf2f82a7.chunk.css.map": "/ArtisticAnimalsWebApp/static/css/main.cf2f82a7.chunk.css.map",
+    "static/js/2.853202a0.chunk.js.LICENSE.txt": "/ArtisticAnimalsWebApp/static/js/2.853202a0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ArtisticAnimalsWebApp/static/media/gallery.87daf8cb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.224de962.js",
+    "static/js/runtime-main.2d310b2d.js",
     "static/js/2.853202a0.chunk.js",
-    "static/css/main.d1a91803.chunk.css",
+    "static/css/main.cf2f82a7.chunk.css",
     "static/js/main.b4118d20.chunk.js"
   ]
 }
